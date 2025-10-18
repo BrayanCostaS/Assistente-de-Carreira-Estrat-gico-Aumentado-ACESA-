@@ -44,4 +44,4 @@ Possuo habilidades em **Inglês, Espanhol, Administração, Automação (Node, P
 
 ## 🤝 Quer Criar Sua Própria IA de Carreira?
 
-Este projeto é Open Source. Siga os workflows de Ingestão e Análise (disponíveis nos arquivos JSON) e adapte o modelo de prompt para começar a usar seu histórico profissional como sua maior vantagem competitiva!
+Este projeto é Open Source. Entre em contato comigo.
